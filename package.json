@@ -1,0 +1,34 @@
+{
+  "name": "psychic-octo-fortnight",
+  "version": "1.0.0",
+  "description": "`// todo`",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "ts-loader": "^4.4.2",
+    "typescript": "^3.0.1",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.5",
+    "webpack-dev-server": "^3.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M4thG33k/psychic-octo-fortnight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M4thG33k/psychic-octo-fortnight/issues"
+  },
+  "homepage": "https://github.com/M4thG33k/psychic-octo-fortnight#readme"
+}
